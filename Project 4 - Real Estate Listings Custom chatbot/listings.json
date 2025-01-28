@@ -1,0 +1,182 @@
+[
+    {
+        "location": "Downtown Loft",
+        "list_price": 300000,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_feet": 800,
+        "description": "Live in the heart of the city in this modern downtown loft. This 1-bedroom, 1-bathroom unit features floor-to-ceiling windows, a sleek kitchen with stainless steel appliances, and a spacious living area perfect for entertaining. Enjoy urban living at its finest with easy access to restaurants, shops, and nightlife.",
+        "neighborhood_description": "Located in the bustling downtown area, this neighborhood offers a vibrant lifestyle with trendy cafes, art galleries, and cultural events. Walk to nearby parks or catch a show at the local theater. With public transportation options nearby, commuting is a breeze."
+    },
+    {
+        "location": "Suburban Family Home",
+        "list_price": 600000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 2500,
+        "description": "Welcome to this spacious suburban family home with 4 bedrooms, 3 bathrooms, and a large backyard. The open-concept kitchen features granite countertops and a breakfast nook, while the master suite offers a luxurious spa-like bathroom. Enjoy family BBQs in the landscaped backyard with plenty of room for kids to play.",
+        "neighborhood_description": "This family-friendly neighborhood boasts top-rated schools, parks, and community events. Enjoy a sense of community with friendly neighbors and easy access to shopping centers and restaurants. Experience suburban living at its best."
+    },
+    {
+        "location": "Luxury Estate",
+        "list_price": 2000000,
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "square_feet": 8000,
+        "description": "Indulge in luxury living in this exquisite 5-bedroom, 6-bathroom estate. This grand home features a gourmet kitchen, home theater, wine cellar, and outdoor pool with a waterfall. The master suite offers a private balcony with stunning views of the surrounding countryside.",
+        "neighborhood_description": "Located in an exclusive gated community, this neighborhood offers privacy and luxury living. Enjoy access to golf courses, country clubs, and hiking trails. Experience the epitome of elegance and sophistication in this luxurious estate."
+    },
+    {
+        "location": "Waterfront Retreat",
+        "list_price": 800000,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "square_feet": 3000,
+        "description": "Escape to this peaceful waterfront retreat with breathtaking views of the lake. This 3-bedroom, 2.5-bathroom home features a spacious deck overlooking the water, a cozy fireplace, and a gourmet kitchen with granite countertops. Enjoy boating, fishing, and relaxation in your own backyard oasis.",
+        "neighborhood_description": "This waterfront community offers a serene and tranquil setting with access to boating, fishing, and water sports. Enjoy the beauty of nature with walking trails, wildlife sightings, and stunning sunsets. Experience waterfront living at its finest."
+    },
+    {
+        "location": "Rural Farmhouse",
+        "list_price": 400000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 2000,
+        "description": "Embrace country living in this charming rural farmhouse. This 3-bedroom, 2-bathroom home features a wrap-around porch, wood-burning fireplace, and a large barn on the property. Enjoy the peace and quiet of the countryside with plenty of space for gardening and outdoor activities.",
+        "neighborhood_description": "Located in a picturesque rural setting, this neighborhood offers a quiet and serene lifestyle. Enjoy fresh air, open spaces, and starry nights away from the hustle and bustle of the city. Experience the beauty of rural living in this farmhouse retreat."
+    },
+    {
+        "location": "Mountain Cabin",
+        "list_price": 250000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "square_feet": 1500,
+        "description": "Unwind in this cozy mountain cabin surrounded by nature. This 2-bedroom, 1-bathroom retreat features a stone fireplace, wood beams, and a spacious deck with mountain views. Enjoy hiking, skiing, and outdoor adventures right outside your door.",
+        "neighborhood_description": "Located in the scenic mountains, this neighborhood offers outdoor enthusiasts a paradise for hiking, skiing, and wildlife watching. Escape the city and embrace nature with scenic views, fresh mountain air, and peaceful surroundings. Experience mountain living at its best in this charming cabin."
+    },
+    {
+        "location": "Historic Brownstone",
+        "list_price": 700000,
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "square_feet": 2800,
+        "description": "Step back in time in this historic brownstone with modern updates. This 4-bedroom, 2.5-bathroom home features original hardwood floors, exposed brick walls, and a rooftop deck with city views. The spacious layout and elegant decor make this a truly unique property.",
+        "neighborhood_description": "Located in a historic district, this neighborhood offers charm and character with tree-lined streets and historic architecture. Walk to local cafes, museums, and art galleries or explore nearby parks and cultural landmarks. Experience the rich history and culture of the city in this historic brownstone."
+    },
+    {
+        "location": "Beachfront Condo",
+        "list_price": 500000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_feet": 1200,
+        "description": "Live the coastal lifestyle in this beachfront condo with panoramic ocean views. This 2-bedroom, 2-bathroom unit features a gourmet kitchen, spa-like bathrooms, and a private balcony overlooking the beach. Walk to the sand and surf or relax by the pool in this seaside retreat.",
+        "neighborhood_description": "Located on the beachfront, this neighborhood offers a relaxed and laid-back lifestyle with sandy beaches, waterfront dining, and water sports. Enjoy beachside living with sunsets over the ocean, beach bonfires, and coastal breezes. Experience the beauty of coastal living in this beachfront condo."
+    },
+    {
+        "location": "Golf Course Villa",
+        "list_price": 900000,
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "square_feet": 3500,
+        "description": "Live in luxury in this elegant golf course villa with stunning fairway views. This 3-bedroom, 3.5-bathroom home features high ceilings, a gourmet kitchen, and a private pool and spa. Enjoy golfing, dining, and resort-style living in this exclusive community.",
+        "neighborhood_description": "Located on a prestigious golf course, this neighborhood offers upscale living with access to golf, tennis, and fine dining. Enjoy a country club lifestyle with social events, fitness classes, and spa services. Experience luxury living on the fairways in this golf course villa."
+    },
+    {
+        "location": "City Penthouse",
+        "list_price": 1500000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "square_feet": 4000,
+        "description": "Experience luxury living in this stunning city penthouse with panoramic skyline views. This 3-bedroom, 3-bathroom unit features a gourmet kitchen, designer finishes, and a private rooftop terrace. Entertain in style or relax in the spa-like master suite with city views.",
+        "neighborhood_description": "Located in the heart of the city, this neighborhood offers upscale dining, shopping, and entertainment options. Walk to theaters, museums, and galleries or enjoy a night out in the vibrant nightlife scene. Experience city living at its finest in this luxurious penthouse."
+    },
+    {
+        "location": "Lakefront Cottage",
+        "list_price": 350000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "square_feet": 1800,
+        "description": "Escape to this charming lakefront cottage with serene water views. This 2-bedroom, 1.5-bathroom retreat features a cozy fireplace, screened porch, and a dock for boating and fishing. Enjoy the peace and tranquility of lakeside living in this cozy cottage.",
+        "neighborhood_description": "Located on the shores of a picturesque lake, this neighborhood offers a peaceful retreat with water activities, hiking trails, and wildlife sightings. Enjoy swimming, boating, and picnicking by the water or simply relax and unwind in the natural beauty of the lakefront. Experience lakefront living at its best in this charming cottage."
+    },
+    {
+        "location": "Eco-Friendly Townhouse",
+        "list_price": 400000,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "square_feet": 2000,
+        "description": "Live sustainably in this eco-friendly townhouse with energy-efficient features. This 3-bedroom, 2.5-bathroom home boasts solar panels, recycled materials, and a rainwater harvesting system. The modern design and eco-conscious amenities make this a green oasis in the city.",
+        "neighborhood_description": "Located in a green community, this neighborhood offers eco-friendly living with bike lanes, community gardens, and LEED-certified buildings. Walk to farmers markets, yoga studios, and sustainable cafes or bike to work on dedicated paths. Embrace green living in this eco-friendly townhouse."
+    },
+    {
+        "location": "Ski Chalet",
+        "list_price": 600000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 2500,
+        "description": "Hit the slopes in style with this ski chalet retreat. This 4-bedroom, 3-bathroom home features a stone fireplace, hot tub, and mountain views. Enjoy apres-ski gatherings in the cozy living room or relax on the deck with panoramic views of the ski resort.",
+        "neighborhood_description": "Located near a popular ski resort, this neighborhood offers winter sports enthusiasts a dream destination for skiing, snowboarding, and snowshoeing. Enjoy the convenience of ski-in/ski-out access, cozy mountain lodges, and winter wonderland activities. Experience the thrill of ski season in this luxurious chalet."
+    },
+    {
+        "location": "Downtown Condo",
+        "list_price": 500000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_feet": 1500,
+        "description": "Live in the heart of the city in this downtown condo with modern amenities. This 2-bedroom, 2-bathroom unit features a gourmet kitchen, hardwood floors, and a private balcony with city views. Walk to shops, restaurants, and cultural attractions in this vibrant downtown neighborhood.",
+        "neighborhood_description": "Located in the bustling downtown area, this neighborhood offers a lively urban lifestyle with access to theaters, galleries, and nightlife venues. Enjoy rooftop bars, street festivals, and live music events in this vibrant city center. Experience city living at its best in this downtown condo."
+    },
+    {
+        "location": "Country Cottage",
+        "list_price": 300000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "square_feet": 1200,
+        "description": "Escape to the countryside in this charming country cottage. This 2-bedroom, 1.5-bathroom retreat features a cozy fireplace, hardwood floors, and a screened porch overlooking the rolling hills. Enjoy peace and tranquility in this idyllic rural setting.",
+        "neighborhood_description": "Located in a scenic countryside, this neighborhood offers a quiet and peaceful lifestyle with farms, vineyards, and country roads. Enjoy hikes in the woods, picnics in the meadows, and stargazing at night. Experience the beauty of rural living in this country cottage."
+    },
+    {
+        "location": "Modern Townhome",
+        "list_price": 700000,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "square_feet": 2200,
+        "description": "Live in style in this sleek modern townhome with designer finishes. This 3-bedroom, 2.5-bathroom home features a gourmet kitchen, open-concept living area, and a rooftop deck with city views. Enjoy urban living with luxury amenities in this contemporary townhome.",
+        "neighborhood_description": "Located in a trendy urban neighborhood, this area offers a vibrant lifestyle with coffee shops, boutiques, and art galleries. Walk to parks, bike trails, and farmers markets or explore the local food scene and nightlife options. Experience modern living at its finest in this stylish townhome."
+    },
+    {
+        "location": "Gated Community Mansion",
+        "list_price": 3000000,
+        "bedrooms": 6,
+        "bathrooms": 7,
+        "square_feet": 10000,
+        "description": "Experience grandeur in this palatial mansion located in an exclusive gated community. This 6-bedroom, 7-bathroom estate features a grand foyer, formal dining room, home theater, and private pool with a cabana. Enjoy luxury living at its finest in this expansive estate.",
+        "neighborhood_description": "Located in a prestigious gated community, this neighborhood offers privacy and security with upscale amenities and exclusive residents. Enjoy access to private golf courses, tennis courts, and spa services. Experience the epitome of luxury living in this gated community mansion."
+    },
+    {
+        "location": "Lakefront Log Cabin",
+        "list_price": 400000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1800,
+        "description": "Escape to this cozy lakefront log cabin with rustic charm. This 3-bedroom, 2-bathroom retreat features a stone fireplace, wood beams, and a deck overlooking the water. Enjoy fishing, boating, and relaxation in this peaceful lakeside getaway.",
+        "neighborhood_description": "Located on the shores of a tranquil lake, this neighborhood offers a serene retreat with water activities, birdwatching, and nature trails. Enjoy the sound of lapping waves, stunning sunrises, and starlit nights by the water. Experience the beauty of lakefront living in this charming log cabin."
+    },
+    {
+        "location": "Historic Estate",
+        "list_price": 2500000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "square_feet": 6000,
+        "description": "Own a piece of history in this historic estate with timeless elegance. This 5-bedroom, 4-bathroom home features original details, a grand staircase, and lush gardens. The formal dining room, library, and ballroom offer luxurious spaces for entertaining guests.",
+        "neighborhood_description": "Located in a prestigious historic district, this neighborhood offers stately homes, tree-lined streets, and historic landmarks. Walk to museums, theaters, and fine dining establishments or host events in grand ballrooms and gardens. Experience the grandeur and charm of a bygone era in this historic estate."
+    },
+    {
+        "location": "Mountain Retreat",
+        "list_price": 500000,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "square_feet": 2500,
+        "description": "Escape to this secluded mountain retreat with panoramic views of the valley. This 3-bedroom, 2.5-bathroom home features a stone fireplace, cathedral ceilings, and a wrap-around deck. Enjoy hiking, wildlife watching, and peace and quiet in this mountain sanctuary.",
+        "neighborhood_description": "Located in the mountains, this neighborhood offers a tranquil escape from the city with fresh air, scenic vistas, and outdoor activities. Enjoy hiking trails, mountain biking, and skiing in the winter months or simply relax and unwind in the natural beauty of the mountains. Experience mountain living at its best in this secluded retreat."
+    }
+]
