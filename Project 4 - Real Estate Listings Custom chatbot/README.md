@@ -1,18 +1,18 @@
 ## Project Overview
 
-The HomeMatch application is designed to personalize the real estate search experience for users by matching properties based on individual preferences. The project leverages synthetic data, vector databases, and LLMs to create a seamless, user-tailored process for discovering real estate listings.
+The HomeMatch application personalizes the real estate search experience by matching properties to users based on individual preferences. The project utilizes synthetic data, vector databases, and Large Language Models (LLMs) to provide a highly personalized real estate discovery process, allowing users to find listings that best suit their needs.
 
 ## Generating Property Data
 
-The application uses a Large Language Model (LLM) to generate a variety of realistic real estate listings. These listings cover a range of prices, locations, and property types, ensuring diverse options that cater to different buyer preferences. Each listing includes detailed descriptions of the property and its surrounding neighborhood.
+The application generates a variety of realistic real estate listings using a Large Language Model (LLM). These listings span different price ranges, locations, and property types, ensuring that diverse buyer preferences are met. Each listing includes detailed descriptions of both the property and its surrounding neighborhood.
 
 ## Building the Search Infrastructure
 
-A vector database is utilized to store the property listings along with their embeddings, allowing for efficient and semantic searches. The database enables the system to match listings with specific buyer preferences, such as desired price ranges, neighborhood qualities, and property features.
+A vector database stores the property listings and their embeddings, enabling efficient semantic searches. The database allows the system to match listings based on specific buyer preferences, including price range, neighborhood characteristics, and property features.
 
 ## Customizing Property Descriptions
 
-Once the system retrieves potential matches, the LLM personalizes each listing’s description. This tailored approach highlights features that are particularly relevant to the buyer, ensuring that each property is presented in a way that aligns with the buyer’s preferences and needs.
+After retrieving relevant listings, the LLM further personalizes the descriptions of the top matching listings. The description is tailored to highlight features that align with the buyer’s preferences, ensuring the listing appeals directly to the user’s needs. The augmentation process ensures that descriptions are unique, engaging, and reflect the buyer's preferences without altering factual information.
 
 ## Prerequisites
 
@@ -36,5 +36,5 @@ Before running the notebook, you will need to install the required Python packag
 Replace the placeholder API key with your actual key in the notebook:
 
 ```bash
-API_KEY = 'your_actual_api_key_here'
+API_KEY = "YOUR API KEY"
 ```
