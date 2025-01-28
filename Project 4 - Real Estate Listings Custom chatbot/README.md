@@ -36,5 +36,5 @@ Before running the notebook, you will need to install the required Python packag
 Replace the placeholder API key with your actual key in the notebook:
 
 ```bash
-API_KEY = 'your_actual_api_key_here'
+API_KEY = "YOUR API KEY"
 ```
